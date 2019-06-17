@@ -6,7 +6,7 @@ Release Date: June 11, 2019
 
 README CONTENTS
 0.1 Contact Information
-0.2 Other
+0.2 Use
 0.3 Folder Contents
 
 1.0 Data Information
@@ -29,13 +29,14 @@ Jacob Rosen, and Manoj Venkatachalaiah for DSCS 511, Spring 2019.
 Please reach out with questions or concerns to jkr58@drexel.edu
 
 ----------------------------------------------------------------------
-0.2 Other
+0.2 Use
 
 Because this data was made from data taken from government websites,
 it has all of the same free use protections as that data. In other 
 words, this data can be used for research but cannot be used for 
 things such as profit or identifying individuals.
 
+Anyone can use the code without specifically citing the authors. 
 ----------------------------------------------------------------------
 0.3 Folder Contents
 
@@ -63,7 +64,7 @@ CDC's Sources- https://www.cdc.gov/dhdsp/maps/atlas/data-sources.html
 
 Interactive Map- https://findahealthcenter.hrsa.gov/
 
-Data Download (Health Center Service Delivery and Look–Alike Sites)
+Data Download (Health Center Service Delivery and Lookâ€“Alike Sites)
 	- https://data.hrsa.gov/data/download
 
 ----------------------------------------------------------------------
